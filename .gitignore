@@ -1,0 +1,24 @@
+# Ignore Node.js dependencies
+node_modules/
+package-lock.json
+
+# Ignore build files
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Git-related directories from other projects
+../GitHub Desktop.lnk
+../Git_demo/
+../Node_js_Vid/
+../codess/
+../devtin/
+../devtinderproject (2)/
+../devtinderproject (3)/
+../devtinderproject (4)/
